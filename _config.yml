@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Michael Harris"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Michael Harris"
+description              : &description "Graduate Student in Computer Science"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Michael Harris"
+  pronouns         : # example: ""  
+  bio              : "Having worked in Finance for a short stint, I realized my true passions lied in the agency and freedom provided through computer science. My particular passions have to do with ML and Optimization."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Graduate Student Researcher at Clemson University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mhrrs@g.clemson.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
